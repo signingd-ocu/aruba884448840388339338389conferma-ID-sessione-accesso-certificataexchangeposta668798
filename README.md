@@ -1,0 +1,1 @@
+# auth-docu-sign-portale-autorizzazione
